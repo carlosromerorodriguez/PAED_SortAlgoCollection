@@ -23,7 +23,7 @@ Este repositorio busca ser una herramienta educativa y de referencia. Animo a lo
 Lenguaje de programación: Java
 IDE de desarrollo: IntelliJ
 
-Para ejecutar el código, se debe abrir el script `Main` ubicado en la carpeta `PRACTICA1/src`.
+Para ejecutar el código, se debe abrir el script `Main` ubicado en la carpeta `/src`.
 
 ### Interacción con el Programa
 
