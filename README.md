@@ -1,6 +1,6 @@
 # Advanced Sorting Algorithms - PAED Practice 1
 
-## Bienvenido
+## Bienvenida
 
 Bienvenido al repositorio de la primera práctica de Programación Avanzada y Estructura de Datos (PAED). Este espacio está dedicado a explorar y profundizar en algunos de los algoritmos de ordenación más eficientes y utilizados en la ciencia de la computación: BucketSort, MergeSort y QuickSort.
 
